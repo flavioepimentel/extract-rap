@@ -1,6 +1,7 @@
 [
     {
         "id": 33064,
+        "visita": "RAP 30/09",
         "titulo": "LABOR [Laboratório] Implantação do Klingo",
         "data": "2026-09-30",
         "cliente": "Laboratório Labor",
@@ -20,6 +21,7 @@
     },
     {
         "id": 33031,
+        "visita": "RAP 28/09",
         "titulo": "QUALITESTE [Laboratório e clínica] Implantação do Klingo",
         "data": "2026-09-28",
         "cliente": "Laboratório e Clínica Qualiteste",
@@ -39,6 +41,7 @@
     },
     {
         "id": 33029,
+        "visita": "RAP 28/09",
         "titulo": "LAPEC [Laboratório] Implantação Klingo",
         "data": "2026-09-28",
         "cliente": "Laboratório Lapec",
@@ -58,6 +61,7 @@
     },
     {
         "id": 33060,
+        "visita": "RAP 30/09",
         "titulo": "LAPEC [Laboratório] Implantação Klingo",
         "data": "2026-09-30",
         "cliente": "Laboratório Lapec",
@@ -77,6 +81,7 @@
     },
     {
         "id": 33061,
+        "visita": "RAP 29/09",
         "titulo": "LAPEC [Laboratório] Implantação Klingo",
         "data": "2026-09-29",
         "cliente": "Laboratório Lapec",
@@ -96,6 +101,7 @@
     },
     {
         "id": 33057,
+        "visita": "RAP 29/09",
         "titulo": "WISETECH Atividades internas (2026)",
         "data": "2026-09-29",
         "cliente": "Wisetech",
@@ -115,6 +121,7 @@
     },
     {
         "id": 33063,
+        "visita": "RAP 30/09",
         "titulo": "WISETECH Atividades internas (2026)",
         "data": "2026-09-30",
         "cliente": "Wisetech",
@@ -134,6 +141,7 @@
     },
     {
         "id": 33065,
+        "visita": "RAP 30/09",
         "titulo": "WISETECH Atividades internas (2026)",
         "data": "2026-09-30",
         "cliente": "Wisetech",
@@ -153,6 +161,7 @@
     },
     {
         "id": 33058,
+        "visita": "RAP 29/09",
         "titulo": "SOLIM [Laboratório] _Wise+ Project 2026 /Implantação Klingo e Klis",
         "data": "2026-09-29",
         "cliente": "Solim (Laboratório Solim)",
@@ -172,6 +181,7 @@
     },
     {
         "id": 33062,
+        "visita": "RAP 30/09",
         "titulo": "SOLIM [Laboratório] _Wise+ Project 2026 /Implantação Klingo e Klis",
         "data": "2026-09-30",
         "cliente": "Solim (Laboratório Solim)",
@@ -191,6 +201,7 @@
     },
     {
         "id": 33028,
+        "visita": "RAP 28/09",
         "titulo": "Promed Saúde [Clínica] Implantação do Klingo",
         "data": "2026-09-28",
         "cliente": "Clínica Odonto-médica e laboratório Promed Saúde",

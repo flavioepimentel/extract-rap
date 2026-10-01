@@ -1,6 +1,7 @@
 [
     {
         "id": 33080,
+        "visita": "Reunião de homologação de start",
         "titulo": "RADIOLÓGICA [Clínica] Implantação do Klingo",
         "data": "2026-09-30",
         "cliente": "Clínica Radiológica",
@@ -20,6 +21,7 @@
     },
     {
         "id": 33079,
+        "visita": "Reunião de homologação ao start",
         "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
         "data": "2026-09-30",
         "cliente": "BIOCENTER [Laboratório]",
@@ -39,6 +41,7 @@
     },
     {
         "id": 33026,
+        "visita": "Breve alinhamento com diretoria - novas diretrizes sobre OS de laboratório,projeto técnico e ferramenta de acompanhamento",
         "titulo": "WISETECH Atividades internas (2026)",
         "data": "2026-09-28",
         "cliente": "Wisetech",
@@ -58,6 +61,7 @@
     },
     {
         "id": 33035,
+        "visita": "Alinhamento com Gestor do projeto e especialista- integrações da área clínica",
         "titulo": "Promed Saúde [Clínica] Implantação do Klingo",
         "data": "2026-09-29",
         "cliente": "Clínica Odonto-médica e laboratório Promed Saúde",

@@ -1,6 +1,7 @@
 [
     {
         "id": 33043,
+        "visita": "INTERNO",
         "titulo": "ANÁLISE [Laboratório] Implantação do Klingo",
         "data": "2026-09-29",
         "cliente": "Laboratório Análise",
@@ -20,6 +21,7 @@
     },
     {
         "id": 33047,
+        "visita": "INTERNO",
         "titulo": "OBESIDADE [Hospital] _Wise+ Project 2026",
         "data": "2026-09-28",
         "cliente": "Hospital da Obesidade",
@@ -39,6 +41,7 @@
     },
     {
         "id": 33048,
+        "visita": "INTERNO",
         "titulo": "OBESIDADE [Hospital] _Wise+ Project 2026",
         "data": "2026-09-29",
         "cliente": "Hospital da Obesidade",

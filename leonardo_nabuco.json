@@ -1,6 +1,7 @@
 [
     {
         "id": 33053,
+        "visita": "CADASTRO DE RESTRIÇÕES",
         "titulo": "CEDUM  [Clínica] Implantação do Klingo",
         "data": "2026-09-30",
         "cliente": "Clínica Cedum",
@@ -20,6 +21,7 @@
     },
     {
         "id": 33025,
+        "visita": "ALIMENTAÇÃO DE BASE",
         "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
         "data": "2026-09-28",
         "cliente": "BIOCENTER [Laboratório]",
@@ -39,6 +41,7 @@
     },
     {
         "id": 33050,
+        "visita": "REUNIÃO DE VALIDAÇÃO DE DADO E CRIAÇÃO DE FLUXO PARA FILA DE LAUDO",
         "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
         "data": "2026-09-29",
         "cliente": "BIOCENTER [Laboratório]",
@@ -58,6 +61,7 @@
     },
     {
         "id": 33052,
+        "visita": "PREPARAÇÃO DE BASE PARA CLINICA MEDICA",
         "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
         "data": "2026-09-30",
         "cliente": "BIOCENTER [Laboratório]",
@@ -77,6 +81,7 @@
     },
     {
         "id": 33054,
+        "visita": "ACOMPANHAMENTO REMOTO - CONFIGURAÇÃO, CALL CENTER E RECEPÇÃO",
         "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
         "data": "2026-09-30",
         "cliente": "BIOCENTER [Laboratório]",
@@ -96,6 +101,7 @@
     },
     {
         "id": 33055,
+        "visita": "TESTES DE BASE",
         "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
         "data": "2026-09-30",
         "cliente": "BIOCENTER [Laboratório]",
@@ -114,7 +120,28 @@
         "noticias": null
     },
     {
+        "id": 33085,
+        "visita": "AJUSTE NA BASE DE TESTE E TREINO DE FECHAMENTO PARTICULAR",
+        "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
+        "data": "2026-10-01",
+        "cliente": "BIOCENTER [Laboratório]",
+        "projeto": "BIOCENTER [Laboratório] Implantação Klingo",
+        "responsavel": "Leonardo Nabuco",
+        "contato": "LEONARDO NABUCO, THALYTA E DANIELE",
+        "periodo_inicio": "14:00",
+        "periodo_fim": "15:00",
+        "categoria_rap": "Consultoria Implantação- Treinamento",
+        "tipo_rap": "Cliente (Acompanhamento/Aprendizado)",
+        "descricao": "- FOI NECESSÁRIO UM BREVE ALINHAMENTO JUNTO A THALYTA E DANIELE PARA AJUSTES NA BASE TESTES COM FINALIDADE DO CLIENTE EFETUAR UM TREINAMENTO INTERNO ENTRE FINANCEIRO E A RECEPÇÃO. \n- FOI CONCEDIDO ACESSO A DANIELA DO FINANCEIRO PARA VISUALIZAR A RECEPCIONISTA NA PARTE DE FECHAMENTO PARTICULAR\n- FOI REALIZADO UM BREVE TREINAMENTO COM ELA PARA RELEMBRAR COMO É FEITO O PROCESSO DENTRO DO MODULO DE RECEPÇÃO",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    },
+    {
         "id": 33032,
+        "visita": "FORMULARIO OBESIDADE",
         "titulo": "OBESIDADE [Hospital] _Wise+ Project 2026",
         "data": "2026-09-28",
         "cliente": "Hospital da Obesidade",
@@ -134,6 +161,7 @@
     },
     {
         "id": 33033,
+        "visita": "FORMULARIO OBESIDADE",
         "titulo": "OBESIDADE [Hospital] _Wise+ Project 2026",
         "data": "2026-09-29",
         "cliente": "Hospital da Obesidade",
@@ -153,6 +181,7 @@
     },
     {
         "id": 33051,
+        "visita": "ACOMPANHAMENTO PÓS START",
         "titulo": "Clínica Otoface [Clínica] Implantação Klingo",
         "data": "2026-09-30",
         "cliente": "Clínica Otoface",
@@ -171,7 +200,28 @@
         "noticias": null
     },
     {
+        "id": 33089,
+        "visita": "Acompanhamento remoto pos start",
+        "titulo": "Clínica Otoface [Clínica] Implantação Klingo",
+        "data": "2026-10-01",
+        "cliente": "Clínica Otoface",
+        "projeto": "Clínica Otoface [Clínica] Implantação Klingo",
+        "responsavel": "Leonardo Nabuco",
+        "contato": "LEONARDO NABUCO",
+        "periodo_inicio": "15:00",
+        "periodo_fim": "17:00",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente (Acompanhamento/Aprendizado)",
+        "descricao": "- FORAM IDENTIFICADOS QUE ALGUNS MODELOS DE DOCUMENTOS ESTAVAM DESCONFIGURADOS EM FORMATO A4, JA FOI REALIZADO O AJUSTE.\n- FOI IDENTIFICADO QUE A CONSULTA DE DERMATOLOGIA ESTAVA PUXANDO O MODELO DE PRONTUARIO DE CONSULTA OFTALMO. FOI PASSADO UMA SOLUÇÃO, MAS O MOTIVO DE TER SIDO PUXADO O MODELO AINDA ESTÁ SOB INVESTIGAÇÃO\n- VIDEO CURTO DE COMO AJUSTAR A ORDEM DA FILA MEDICA NO MODULO CONSULTORIO",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    },
+    {
         "id": 33049,
+        "visita": "PREPARAÇÃO DE DADOS PARA CARGA NO SISTEMA",
         "titulo": "LABOR SENA [Laboratório] Serviço de módulo consultório",
         "data": "2026-09-29",
         "cliente": "Labor Sena",
@@ -191,6 +241,7 @@
     },
     {
         "id": 33059,
+        "visita": "CONFIGURAÇÃO DE BASE",
         "titulo": "LABOR SENA [Laboratório] Serviço de módulo consultório",
         "data": "2026-10-01",
         "cliente": "Labor Sena",
@@ -210,6 +261,7 @@
     },
     {
         "id": 33078,
+        "visita": "REUNIÃO E TREINAMENTO DE VALIDAÇÃO DE CADASTROS",
         "titulo": "LABOR SENA [Laboratório] Serviço de módulo consultório",
         "data": "2026-10-01",
         "cliente": "Labor Sena",

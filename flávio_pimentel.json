@@ -1,6 +1,7 @@
 [
     {
         "id": 33027,
+        "visita": "Cronstrução de realatório",
         "titulo": "IMAIS [Laboratório e clínica] Implantação do Klingo",
         "data": "2026-09-28",
         "cliente": "Laboratório IMAIS",
@@ -20,6 +21,7 @@
     },
     {
         "id": 33039,
+        "visita": "Aompanhamento de Projeto",
         "titulo": "RADIOLÓGICA [Clínica] Implantação do Klingo",
         "data": "2026-09-29",
         "cliente": "Clínica Radiológica",
@@ -39,6 +41,7 @@
     },
     {
         "id": 33056,
+        "visita": "Aompanhamento de Projeto",
         "titulo": "RADIOLÓGICA [Clínica] Implantação do Klingo",
         "data": "2026-10-01",
         "cliente": "Clínica Radiológica",
