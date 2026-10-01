@@ -234,7 +234,7 @@ CONSULTOR:
     #     "ID;TÍTULO;DATA;CLIENTE;PROJETO;RESPONSÁVEL;CONTATO;HORAS REALIZADAS;CATEGORIA RAP;TIPO RAP;ATIVIDADES REALIZADAS;PENDÊNCIAS;PRÓXIMOS PASSOS;OUTRAS INFORMAÇÕES;CONQUISTAS;NOTÍCIAS\n"
     # )
     obj_raps = {"data": []}
-    print(all_raps.json()["data"])
+    print(all_raps.json())
     for rap in all_raps.json()["data"]:
         obj_raps["data"].append(
             {
