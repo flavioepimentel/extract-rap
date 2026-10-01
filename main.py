@@ -234,6 +234,7 @@ CONSULTOR:
     #     "ID;TÍTULO;DATA;CLIENTE;PROJETO;RESPONSÁVEL;CONTATO;HORAS REALIZADAS;CATEGORIA RAP;TIPO RAP;ATIVIDADES REALIZADAS;PENDÊNCIAS;PRÓXIMOS PASSOS;OUTRAS INFORMAÇÕES;CONQUISTAS;NOTÍCIAS\n"
     # )
     obj_raps = {"data": []}
+    print(all_raps.json()["data"])
     for rap in all_raps.json()["data"]:
         obj_raps["data"].append(
             {
@@ -258,7 +259,7 @@ CONSULTOR:
         )
 
     with open("all_raps.json", "w", encoding="utf-8") as f:
-        f.write(str(obj_raps).replace(
+        f.write(str(all_raps.json()["data"]).replace(
             "'", '"').replace("None", "null"))
     # for rap in all_raps.json()["data"]:
     #     print(f"ID: {rap['id']}")
