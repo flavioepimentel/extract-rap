@@ -30,6 +30,7 @@ def semana_para_datas():
 if __name__ == "__main__":
     # 1. login
     session = Session()
+    print(f"Usuário: {USUARIO}")
     auth_service = AuthService(USUARIO, SENHA, session)
     projetos_service = ProjetosService(session)
     raps_service = RapService(session)
