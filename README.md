@@ -3,7 +3,16 @@ Categoria
 
 ```json
 
-{'id': 43, 'sigla': 'AP', 'valor': 'Acompanhamento de projetos', 'empresa_id': 1, 'created_at': '2022-04-02T22:30:37.000000Z', 'updated_at': '2022-04-02T22:30:37.000000Z', 'deleted_at': None, 'isMarco': 0}
+{
+    "id": 43, 
+    "sigla": "AP", 
+    "valor": "Acompanhamento de projetos", 
+    "empresa_id": 1, 
+    "created_at": "2022-04-02T22:30:37.000000Z", 
+    "updated_at": "2022-04-02T22:30:37.000000Z", 
+    "deleted_at": null, 
+    "isMarco": 0
+}
 
 ```
 
@@ -11,7 +20,16 @@ Tipo RAP
 
 ```json
 
-{'id': 8, 'sigla': 'CA', 'valor': 'Cliente (Acompanhamento/Aprendizado)', 'empresa_id': 1, 'created_at': '2022-03-31T10:36:06.000000Z', 'updated_at': '2025-12-02T19:00:57.000000Z', 'deleted_at': None, 'isTempoConsumivel': 1}
+{
+    "id": 8, 
+    "sigla": "CA", 
+    "valor": "Cliente (Acompanhamento/Aprendizado)", 
+    "empresa_id": 1, 
+    "created_at": "2022-03-31T10:36:06.000000Z", 
+    "updated_at": "2025-12-02T19:00:57.000000Z", 
+    "deleted_at": null, 
+    "isTempoConsumivel": 1
+}
 
 ```
 
@@ -162,7 +180,23 @@ Cliente
 
 ```json
 
-{'id': 4, 'empresa_id': 1, 'descricao': 'Laboratório Santa Maria', 'created_at': '2022-03-30T09:55:22.000000Z', 'updated_at': '2025-07-30T17:13:13.000000Z', 'deleted_at': None, 'arredondamento': 20, 'empresa': {'id': 1, 'created_at': '2022-03-21T22:03:53.000000Z', 'updated_at': '2022-04-25T20:32:53.000000Z', 'nome': 'Wisetech', 'cnpj': '06166173000160', 'dominio': 'https://wisetech.com.br/', 'deleted_at': None}}
+{
+    "id": 4, 
+    "empresa_id": 1, 
+    "descricao": "Laboratório Santa Maria", 
+    "created_at": "2022-03-30T09:55:22.000000Z", 
+    "updated_at": "2025-07-30T17:13:13.000000Z", 
+    "deleted_at": null, 
+    "arredondamento": 20, 
+    "empresa": {
+        "id": 1, 
+        "created_at": "2022-03-21T22:03:53.000000Z", 
+        "updated_at": "2022-04-25T20:32:53.000000Z", 
+        "nome": "Wisetech", "cnpj": "06166173000160", 
+        "dominio": "https://wisetech.com.br/", 
+        "deleted_at": null
+        }
+}
 
 ```
 

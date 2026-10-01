@@ -58,6 +58,8 @@ if __name__ == "__main__":
         "Flávio Pimentel"
     )
 
+    all_raps.json()["data"][0]
+
     for user in usuarios.json():
         raps = raps_service.get_all_raps(
             auth_service.cookies,
@@ -71,6 +73,7 @@ if __name__ == "__main__":
             obj_raps.append(
                 {
                     "id": rap['id'],
+                    "visita": rap['visita'],
                     "titulo": rap['projeto']['titulo'],
                     "data": rap['data'],
                     "cliente": rap['projeto']['cliente']['descricao'],
