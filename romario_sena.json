@@ -1,0 +1,40 @@
+[
+    {
+        "id": 33036,
+        "titulo": "ANÁLISE [Laboratório] Implantação do Klingo",
+        "data": "2026-09-28",
+        "cliente": "Laboratório Análise",
+        "projeto": "ANÁLISE [Laboratório] Implantação do Klingo",
+        "responsavel": "Romario Sena",
+        "contato": "Analise",
+        "periodo_inicio": "08:00",
+        "periodo_fim": "12:00",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "Visita presencial para acompanhamento das demandas\nAcompahhamento do fluxo de atendimento\nAjustes de acessos para mmpressões de laudos\nConversa com Rose da Qualidade, a mesma relatou que está recebendo no Welon uma informação que não é numero do atendimento do paciente, a mesma gostaria de receber o numero do atendimento.\nSolicitado que seja enviado uma evidencia\nEnvidencia enviada\nDemanda encaminhada para Fabio no Wellon\nAguarando feedback\nAvaliando o exame soroteca que esta ficando disponivel para o paciente no portal e em outros espaços que não deveriam aparecer.\nConversa com Jazi, relatado principais pendencias.\nDecidido internamente que a temperatura dos maletes sejam tratadas de forma manual visto que foi avaliado que a na rotina atual há uma dificuldade de ter que digitar a temperatura na chegada para os diversos malotes, atualmente o pessoal anota o rebecimento da temperatura na chegada dos malotes uma unica vez e para fazer no sistema tem que digitar a temperatura para os diversos malotes um a um, o que entenderam que geraria um atraso.",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    },
+    {
+        "id": 33037,
+        "titulo": "ANÁLISE [Laboratório] Implantação do Klingo",
+        "data": "2026-09-29",
+        "cliente": "Laboratório Análise",
+        "projeto": "ANÁLISE [Laboratório] Implantação do Klingo",
+        "responsavel": "Romario Sena",
+        "contato": "Analise",
+        "periodo_inicio": "08:00",
+        "periodo_fim": "12:07",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "Avaliação de fluxo do atendimento. \nEm conversa com Monique foi solicitado um recurso que torne possivel realizar o atendimento do paciente diante de uma falha externa operacional na qual a maquinea de cartao parou de funcionar, Relatado que há uma necessidade de atender esse paciente e deixar o pagamento como pendente, para isso foi criado um status de recebimento com o nome Pagamento Pendente e então feito o teste pratico e explicado o fluxo.\nFoi criado um sinalizador de Atendimento chamado Bloqueado para Acesso ao Portal de Resutlado - Feito testes com monique e explicado como é feito o processo de bloqueio e liberação do acesso.\nSinalizado por Barbara, Monique e Jazy que as mensagens de resutlados prontos não estão sendo enviadas para os pacientes, inclsuive Jazy relatou da necessidade de já esta sendo enviada as mensagens, justamente pelo fato de varios exames já estatem com resultados antecipados e o paciete não está sendo sinalizado\nAlguns exames estão sendo solicitados urgencias sem que esses exames permitam a antecipação dos resutlados, um exemplo foi o exame urocultura. Foi feito ajuste no sistema para que não seja permitido solicitar Urgencia em Urocultura.\nFoi orientado para Ricardo solicitar a lista de exames que não devem ter urgencia solicitadas.\nAvaliado Fluxo de uso de malotes onde foi observado que foram criados malotes das unidades por apoio onde se faz necessário o recebimento dos respectivos malotes, e no momento do recebimento desses malotes, é necessário informar qual a temperatura do malote, e como há diversos malotes a rotina está gastando mais tempo para ser executada. Foi analisado o propostito do fluxo e a expectativa é obseter a rastreabilidade da amostra, logo para que isso seja realiado não foi identificado necessidade de se ter mais de um malote para cada unidade, logo a rotina interna de separação das amostras poderão continuar como estão e não necessriamente cada bloco de amostra ter que ser tranformado em um malote, Sugerido que seja criado um malote para cada undiade, pois todas amostras serão geradas em apenas um alote da unidade x e ao ser recebida, haverá sido cumprido o proposito do malote em relação ao rastreabildiade, mantendo todo o resto do fluxo  seguindo o padrão.\nSolicitado por gorete umrecurso que seja possivel avaliar a quantidade de glosa geradas no sistema",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    }
+]
