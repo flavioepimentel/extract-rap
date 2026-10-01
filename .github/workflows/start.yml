@@ -12,6 +12,7 @@ on:
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
+    environment: venv
 
     steps:
       - name: Checkout do repositório
