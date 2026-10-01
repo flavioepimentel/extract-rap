@@ -12,6 +12,8 @@ on:
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     environment: venv
 
     steps:
