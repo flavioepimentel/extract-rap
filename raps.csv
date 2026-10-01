@@ -1,4 +1,0 @@
-ID;TÍTULO;DATA;CLIENTE;PROJETO;RESPONSÁVEL;CONTATO;HORAS REALIZADAS;CATEGORIA RAP;TIPO RAP;ATIVIDADES REALIZADAS;PENDÊNCIAS;PRÓXIMOS PASSOS;OUTRAS INFORMAÇÕES;CONQUISTAS;NOTÍCIAS
-33027;IMAIS [Laboratório e clínica] Implantação do Klingo;2026-09-28;Laboratório IMAIS;IMAIS [Laboratório e clínica] Implantação do Klingo;Flávio Pimentel;Murilo;08:00 - 11:00;Atividades Internas;Cliente;Cronstrução de realatório:
-- SOLICITAÇÕES ATENDIDAS POR ESPECIALIDADE, tem o objetivo de exibir todos os atendimentos e respectivas especialidades;
-- RELATÓRIO DE SOLICITAÇÕES, exibe a relatório solicitações despachadas para pacientes e importa as informações do primeiro relatório para conciliar as solicitações por especialidade.;- Validação do cliente.;None;None;None;None

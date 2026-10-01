@@ -2,11 +2,13 @@
 import os
 import datetime
 import time
+import json
 from requests import Session
 from dotenv import load_dotenv
 from services import RapService
 from services import AuthService
 from services import ProjetosService
+
 
 load_dotenv()
 
@@ -231,31 +233,33 @@ CONSULTOR:
     # f.write(
     #     "ID;TÍTULO;DATA;CLIENTE;PROJETO;RESPONSÁVEL;CONTATO;HORAS REALIZADAS;CATEGORIA RAP;TIPO RAP;ATIVIDADES REALIZADAS;PENDÊNCIAS;PRÓXIMOS PASSOS;OUTRAS INFORMAÇÕES;CONQUISTAS;NOTÍCIAS\n"
     # )
-    obj_raps = []
+    obj_raps = {"data": []}
     for rap in all_raps.json()["data"]:
-        obj_raps.append(
+        obj_raps["data"].append(
             {
-                "id": {rap['id']},
-                "titulo": {rap['projeto']['titulo']},
-                "data": {rap['data']},
-                "cliente": {rap['projeto']['cliente']['descricao']},
-                "projeto": {rap['projeto']['titulo']},
-                "responsavel": {rap['responsavel']['name']},
-                "contato": {rap['contato']},
-                "periodo_inicio": {rap['periodo_inicio']},
-                "periodo_fim": {rap['periodo_fim']},
-                "categoria_rap": {rap['categoria_rap']['valor']},
-                "tipo_rap": {rap['tipo_rap']['valor']},
-                "descricao": {rap['descricao']},
-                "pendencias": {rap['pendencias']},
-                "proximos_passos": {rap['proximos_passos']},
-                "outras_infos": {rap['outras_infos']},
-                "conquistas": {rap['conquistas']},
-                "noticias": {rap['noticias']}
+                "id": rap['id'],
+                "titulo": rap['projeto']['titulo'],
+                "data": rap['data'],
+                "cliente": rap['projeto']['cliente']['descricao'],
+                "projeto": rap['projeto']['titulo'],
+                "responsavel": rap['responsavel']['name'],
+                "contato": rap['contato'],
+                "periodo_inicio": rap['periodo_inicio'],
+                "periodo_fim": rap['periodo_fim'],
+                "categoria_rap": rap['categoria_rap']['valor'],
+                "tipo_rap": rap['tipo_rap']['valor'],
+                "descricao": rap['descricao'],
+                "pendencias": rap['pendencias'],
+                "proximos_passos": rap['proximos_passos'],
+                "outras_infos": rap['outras_infos'],
+                "conquistas": rap['conquistas'],
+                "noticias": rap['noticias']
             }
         )
-    with open("all_raps.json", "w") as f:
-        f.write(str(obj_raps))
+
+    with open("all_raps.json", "w", encoding="utf-8") as f:
+        f.write(str(obj_raps).replace(
+            "'", '"').replace("None", "null"))
     # for rap in all_raps.json()["data"]:
     #     print(f"ID: {rap['id']}")
     #     print(f"TÍTULO: {rap['projeto']['titulo']}")
