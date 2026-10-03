@@ -78,5 +78,25 @@
         "outras_infos": null,
         "conquistas": null,
         "noticias": null
+    },
+    {
+        "id": 33102,
+        "visita": "Ajuste Final - b2b labore",
+        "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
+        "data": "2026-10-02",
+        "cliente": "BIOCENTER [Laboratório]",
+        "projeto": "BIOCENTER [Laboratório] Implantação Klingo",
+        "responsavel": "José Acacio Rios Guirra Júnior",
+        "contato": "Kelsen, Charles",
+        "periodo_inicio": "08:00",
+        "periodo_fim": "18:00",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "Finalização dos mapeamentos dos Exames X Amostras que são enviados para o Labore\nSeguindo a Planilha(https://docs.google.com/spreadsheets/d/1jLzqVI_OrnklLtG1E9NC_dLXeQwhXqqBs5y3VDO4HJA/edit?gid=0#gid=0)\nReunião de Testes e Validação Final com o B2B\nTestes de Top 50 Exames mais realizados, ida e volta\n#947\n#957\n#961\nO Envio da Requisição Funcionou corretamente\ne tivemos tambem ajustes finais e testes de retorno da volta de resultados e foram conferidos exames por exames",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
     }
 ]
