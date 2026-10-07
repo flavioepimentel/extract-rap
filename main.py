@@ -25,6 +25,17 @@ def semana_para_datas():
     return segunda, sexta
 
 
+def arquivo_existe(caminho: str) -> bool:
+    """
+    Verifica se o caminho informado aponta para um arquivo existente.
+    Retorna True se existir e for um arquivo, False caso contrário.
+    """
+    if not isinstance(caminho, str) or not caminho.strip():
+        raise ValueError("O caminho do arquivo deve ser uma string não vazia.")
+
+    return os.path.exists(caminho)
+
+
 if __name__ == "__main__":
     # 1. login
     session = Session()
@@ -37,28 +48,11 @@ if __name__ == "__main__":
 # 1.1 Chamar login
     auth_service.login()
 # 1.3 Receber resposta do login chamar  raps filtrados
-    categoria_rap = raps_service.get_categorias_rap(auth_service.cookies,
-                                                    auth_service.headers)
-    tipo_rap = raps_service.get_tipos_rap(auth_service.cookies,
-                                          auth_service.headers)
-    clientes = projetos_service.get_all_clients(auth_service.cookies,
-                                                auth_service.headers)
-
     usuarios = usuarios_service.get_all_users(auth_service.cookies,
                                               auth_service.headers)
 
     # Segunda e sexta da semana atual
     segunda, sexta = semana_para_datas()
-
-    all_raps = raps_service.get_all_raps(
-        auth_service.cookies,
-        auth_service.headers,
-        segunda,
-        sexta,
-        "Flávio Pimentel"
-    )
-
-    all_raps.json()["data"][0]
 
     for user in usuarios.json():
         raps = raps_service.get_all_raps(
@@ -93,9 +87,27 @@ if __name__ == "__main__":
                 }
             )
         print(f"Raps do usuário {user['name']}: {raps.json()["data"]}")
-        if raps.json()["data"] not in [None, []]:
-            with open(f"{str(user['name']).replace(" ", "_").lower()}.json", "w", encoding="utf-8") as f:
+
+        funcionario_name = str(user['name']).replace(" ", "_").lower()
+
+        if arquivo_existe(f"./{funcionario_name}.json") \
+                or raps.json()["data"] not in [None, []]:
+
+            # Método para criar o diretório, caso não exista, e salvar o arquivo JSON
+            # os.makedirs(
+            #     f"./{funcionario_name}", exist_ok=True)
+
+            with open(f"./{funcionario_name}.json", "w", encoding="utf-8") as f:
                 f.write(str(json.dumps(obj_raps, ensure_ascii=False, indent=4)))
+
+            # 1.6 Salvar raps em PDF -- Função baixa pdf corrompido.
+            # raps_service.download_rap_pdf(
+            #     auth_service.cookies,
+            #     auth_service.headers,
+            #     rap['projeto_id'],
+            #     rap['id'],
+            #     f"./{funcionario_name}/{funcionario_name}_{rap['id']}.pdf"
+            # )
 
 
 # 1.5 Chamar download dos raps

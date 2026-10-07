@@ -8,6 +8,7 @@ __pycache__/
 
 *.json
 
+
 # Distribution / packaging
 .Python
 build/

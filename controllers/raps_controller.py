@@ -41,8 +41,8 @@ class RapController:
         - inicio: Data de início no formato YYYY-MM-DD
         - final: Data de fim no formato YYYY-MM-DD
         - usuario: Nome do usuário (opcional)
-        - cliente: Nome do cliente (opcional)   
-        - categoria: Sigla da categoria do rap (opcional) 
+        - cliente: Nome do cliente (opcional)
+        - categoria: Sigla da categoria do rap (opcional)
         - tipo: Sigla do tipo do rap (opcional)
         """
         categoria = \
@@ -63,6 +63,18 @@ class RapController:
 
         return self.session.get(
             f'http://wisetech.dyndns.org:8000/usuario/raps?inicio={inicio}&final={final}&page=1&perPage=50&formattedFilter=%7B%22category%22:[{categoria}],%22type%22:[{tipo}],%22client%22:[{cliente}],%22responsable%22:[{usuario}]%7D',
+            cookies=cookies,
+            headers=headers,
+            verify=False,
+        )
+
+    def get_rap_pdf(self, cookies: dict, headers: dict, projeto_id: int, rap_id: int) -> r.Response:
+        """
+        Abre o RAP em PDF.
+        - rap_id: ID do RAP a ser aberto
+        """
+        return self.session.get(
+            f'http://wisetech.dyndns.org:8000/empresas/1/projetos/{projeto_id}/raps/{rap_id}/pdf',
             cookies=cookies,
             headers=headers,
             verify=False,
