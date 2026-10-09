@@ -39,12 +39,17 @@ jobs:
 
       # Passo responsável por salvar o JSON no repositório
       - name: Commitar e salvar o arquivo JSON gerado
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "bot: atualiza arquivo json [skip ci]"
+          file_pattern: "*.json"
+      # - name: Commitar e salvar o arquivo JSON gerado
+      #   run: |
+      #     git config --global user.name "github-actions[bot]"
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Substitua 'dados.json' pelo nome do seu arquivo ou '*.json'
-          git add .
+      #     # Substitua 'dados.json' pelo nome do seu arquivo ou '*.json'
+      #     git add .
 
-          # Só faz o commit se houver alguma alteração no arquivo
-          git diff --quiet && git diff --staged --quiet || (git commit -m "bot: atualiza arquivo json [skip ci]" && git push)
+      #     # Só faz o commit se houver alguma alteração no arquivo
+      #     git diff --quiet && git diff --staged --quiet || (git commit -m "bot: atualiza arquivo json [skip ci]" && git push)
