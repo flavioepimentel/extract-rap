@@ -1,0 +1,42 @@
+[
+    {
+        "id": 33198,
+        "visita": "Implantação de Custos",
+        "titulo": "SERMEGE [Hospital] _Wise+ Project 2026",
+        "data": "2026-10-09",
+        "cliente": "Hospital Central Sermege",
+        "projeto": "SERMEGE [Hospital] _Wise+ Project 2026",
+        "responsavel": "Fabio Luiz Rios da Silva",
+        "contato": "Sra. Luiza Helena",
+        "periodo_inicio": "14:00",
+        "periodo_fim": "15:30",
+        "categoria_rap": "Consultoria Implantação",
+        "tipo_rap": "Cliente",
+        "descricao": "Resumo:\n - Definição sobre Origem da Receita (Atendimento);\n - Definição sobre Cálculo automático de Honorários Médicos; (Gerar automático)\n - Importação da Provisão da Folha; (Verificar o sistema de folha se gera o arquivo no padrão Smart)\n - Utilização ou não da estrutura de DRE; ( Utiliza )\n - Classe Técnica \"Materiais\" sem Classe Financeira; ( Apontar a classe financeira )\n - Definição das Despesas Indiretas, amarração com Contas Correntes e Classe Espelho para rateio de Custos; ( Revisar)\n - Impostos sobre o Faturamento, avaliar lançar via compromisso a pagar ou parametrizar para cálculo automático em custos; (  avaliar  )\n - Revisar cadastro de setores, devem ter conta corrente exclusiva (1 para 1); (Revisar)\n - Revisar setores Auxiliares, devem ter Classe Financeira de Rateio exclusiva (1 para 1); (Revisar)\n\nPara a próxima reunião, a Sermege ficou de revisar os itens, prioritariamente:\n\nPrincipais revisões:\n\n  - Definição das Despesas Indiretas, amarração com Contas Correntes e Classe Espelho para rateio de Custos; ( Revisar)\n  - Revisar cadastro de setores, devem ter conta corrente exclusiva (1 para 1); (Revisar)\n  - Revisar setores Auxiliares, devem ter Classe Financeira de Rateio exclusiva (1 para 1); (Revisar)",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    },
+    {
+        "id": 33200,
+        "visita": "Implantação de Custos",
+        "titulo": "NOSSA CLÍNICA [Clínica] _ Wise+ Project 2026",
+        "data": "2026-10-07",
+        "cliente": "Nossa Clínica [Laboratório]",
+        "projeto": "NOSSA CLÍNICA [Clínica] _ Wise+ Project 2026",
+        "responsavel": "Fabio Luiz Rios da Silva",
+        "contato": "Junior, Renato, Rebeca, Murilo (Wise)",
+        "periodo_inicio": "14:00",
+        "periodo_fim": "15:30",
+        "categoria_rap": "Consultoria Implantação",
+        "tipo_rap": "Cliente",
+        "descricao": "Retorno das atividades internas:\n- Atendimento - Receita\n - definição de honorário médico – Compromisso a pagar\n - definição de folha – Compromisso a pagar\n - processar estoque – Fizemos o teste- OK devem processar mês a mês\n - mapear todas despesas diretas e indiretas e forma de rateio:\nForam mapeadas, conversamos sobre o conceito e vão redefinir Despesa Direta e Despesas Indiretas;\nCriar critérios de rateios para Compromisso a Pagar;\nFoi apresentado algumas telas em custos (Parametrizações e Estatísticas de Produção);\nPara a próxima reunião, ficaram de pensar nos critérios para Centros Auxiliares;\n\nPróxima reunião em 14/10/26 – Confirmar na terça-feira",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    }
+]
