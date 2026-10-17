@@ -1,0 +1,22 @@
+[
+    {
+        "id": 33288,
+        "visita": "Configurações Repasse Solicitantes",
+        "titulo": "BIOCENTER [Laboratório] Implantação Klingo",
+        "data": "2026-10-15",
+        "cliente": "BIOCENTER [Laboratório]",
+        "projeto": "BIOCENTER [Laboratório] Implantação Klingo",
+        "responsavel": "Fabiano Guimaraes",
+        "contato": "André",
+        "periodo_inicio": "09:00",
+        "periodo_fim": "11:00",
+        "categoria_rap": "Consultoria Implantação",
+        "tipo_rap": "Cliente",
+        "descricao": "Resumo da reunião — Cadastro de solicitantes e regras de repasse\n1. Tópicos analisados na reunião\n•\tCadastro de profissionais: foi demonstrado o cadastro de um profissional como prestador, utilizando a Dra. Raíssa como exemplo. Foram identificados campos obrigatórios, como CPF, CRM, e-mail e dados de acesso.\n•\tDiferença entre solicitante e prestador: o profissional solicitante é quem pede o exame e cujo nome consta na requisição e no laudo. O prestador é cadastrado para fins internos de pagamento e repasse.\n•\tVínculo entre cadastros: os cadastros de solicitante e prestador são independentes. Para os repasses aos médicos solicitantes, o vínculo da regra deve ser feito pelo cadastro do solicitante, identificado pelo CRM.\n•\tRegra de repasse para coletas ginecológicas: foi configurado como exemplo o valor fixo de R$ 60,00, associado ao procedimento e ao profissional solicitante.\n•\tRepasse por procedimento ou por atendimento: foi identificada a necessidade de testar o comportamento do sistema quando um mesmo atendimento possui dois exames na mesma guia. A intenção é evitar o pagamento duplicado de R$ 60,00 quando o acordo comercial prevê um único repasse por guia ou atendimento.\n•\tRelatório de repasses: foi discutida a possibilidade de visualizar os exames, os valores e os atendimentos dos pacientes, permitindo identificar eventuais duplicidades e excluir lançamentos indevidos antes do pagamento.\n•\tClassificação dos solicitantes: foi demonstrada a identificação dos profissionais por nome e classificação, facilitando a consulta e a geração de relatórios.\n•\tRegras comerciais diferenciadas: foi informado que as condições de pagamento podem variar conforme o médico, incluindo percentuais distintos para atendimentos particulares e convênios.\n•\tPeríodo de apuração e pagamento: foi esclarecido que a geração do repasse pode considerar o período de produção ou o período de recebimento, conforme o acordo comercial. O prazo de pagamento deve ser considerado na geração do repasse.",
+        "pendencias": "•\t Relação completa dos médicos solicitantes.  Responsável:  André  Prazo: 22/10/26\n•\t Identificação dos profissionais que recebem pagamentos diretamente e dos que recebem por meio de empresas ou clínicas. Responsável:  André  Prazo: 22/10/26\n•\t Regularização dos cadastros com dados corretos e completos. Responsável:  André  Prazo: 22/10/26\n•\t Confirmação de que todos os solicitantes estão cadastrados e vinculados corretamente pelo CRM .Responsável:  André  Prazo: 22/10/26\n•\t Inclusão dos profissionais nas regras de repasse das coletas ginecológicas.\n•\t Definição individual das condições comerciais negociadas pelo setor comercial. Responsável:  André  Prazo: 22/10/26\n•\t Validação do critério de pagamento: por procedimento, guia ou atendimento. Responsável:  André  Prazo: 22/10/26  \n•\t Confirmação dos critérios de apuração: por produção ou por recebimento, considerando os prazos de pagamento dos convênios. Responsável:  André  Prazo: 22/10/26\n•\t Agendamento da reunião presencial para continuidade das configurações. Responsável:  Fabiano  Prazo: 15/10/26",
+        "proximos_passos": "Agendar uma reunião presencial para avançar na configuração das regras, validar os cadastros e revisar os cenários de repasse.\nConvite já enviado para o cliente: faturamento@biocenternet.com.br\n\nRepasse Solicitante Biocenter - Presencial\nQuinta-feira, 22 de outubro · 08:30 – 11:30\nFuso horário: America/Bahia\nLocal: Biocenter / Sede",
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    }
+]
