@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "id": 33402,
+        "visita": "IMPORTAÇÃO DAS OPERADORAS DOS HOSPITAIS",
+        "titulo": "CICATRICLIN [Clínica] Implantação do Klingo",
+        "data": "2026-10-19",
+        "cliente": "Clínica Cicatriclin",
+        "projeto": "CICATRICLIN [Clínica] Implantação do Klingo",
+        "responsavel": "Márcio Barbosa",
+        "contato": "MARCIO BARBOSA",
+        "periodo_inicio": "08:00",
+        "periodo_fim": "18:00",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "IMPORTAÇÃO DAS OPERADORAS DOS HOSPITAIS SAMUR E SANTA CASA",
+        "pendencias": "FALTA O CAIOS ENVIAR AS TABELAS DOS VALORES CONGELADOS:\n\nCassi IBR - 16/23\nMedservice IBR - 37/19\nSaúde Bradesco IBR - 37/19\nBradesco HSPV - Simpro até 2018\nCassi Samur - Simpro 16/23",
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    },
+    {
+        "id": 33404,
+        "visita": "TREINAMENTO DO MODULO FATURAMENTO",
+        "titulo": "Clínica Otoface [Clínica] Implantação Klingo",
+        "data": "2026-10-20",
+        "cliente": "Clínica Otoface",
+        "projeto": "Clínica Otoface [Clínica] Implantação Klingo",
+        "responsavel": "Márcio Barbosa",
+        "contato": "MARCIO BARBOSA,MADALENA E MARI",
+        "periodo_inicio": "14:30",
+        "periodo_fim": "16:00",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "TREINAMENTO MODULO FATURAMENTO \nO INTUITO DO TREINAMENTO É FAZER COM QUÊ MARI QUE É A PESSOA DO FATURAMENTO FECHE UMA FATURA DO PLANSERV.\n- FOI ENSINADO PRIMERAMENTE O PROCESSO DE PROTOCOLO DE ENVIO DE GUIAS NO MÓDULO DA RECEPÇÃO,MOSTRANDO QUE  TODAS AS GUIAS GERADAS FICAM COM STATUS( DISPONIVÉIS) E QUE APÓS ENVIADO PARA O FATURAMENTO O STATUS DA GUIA MUDA PARA (PT -  PROTOCOLADA).\n- MODULO FATURAMENTO\n* VISÃO GERAL\n* GUIAS\nNO ABA GUIAS FOI ENSINADO A PUXAR O RELATÓRIO,O EXEMPLO DO RELATÓRIO A SER PUXADO FOI O SEGUINTE\n- OPERADORA- PLANSERV\n- DATA- DE 01/10/2026 ATÉ 19/10/2026\n- STATUS -PROTOCOLADAS\n- CLASSIFICAÇÃO - CONSULTAS\n- APÓS PUXAR O RELATÓRIO ENSINADO COMO FAZER O RECEBIMENTO DAS GUIAS PROTOCOLADAS FAZENDO COM QUÊ O STATUS DAS GUIAS MUDE PARA (AF - AFATURAR), E AS GUIAS QUE ESTAVAM COM ALGUM ERRO FORAM COLOCADAS NA PENDÊNCIA DA RECEPÇÃO MUDANDO SEU STATUS PARA (PR -PENDENTE NA RECEPÇÃO)\nMOSTRADO QUE O SISTEMA EXISTE DOIS TIPO DE PENDÊNCIAS QUE É A (PR - PENDENTE NA RECEPÇÃO) E A (PE - QUE É PENDÊNCIA NO FATURAMENTO).\n- DEPOIS COLOCADO TODAS AS GUIAS QUE ESTAVAM COM STATUS (AF-A FATURAR) EM PROTOCOLO DE FATURA MUDANDO ASSIM  O STATUS DA GUIA PARA (PR - PROTOCOLO DE FATURA)\n- DEPOIS COLOCADO TODAS AS GUIAS QUE ESTAVAM EM PROTOCOLO DE FATURA EM UMA FATURA ATRAVÉS DO CRIAR FATURA,CRIANDO ASSIM UMA FATURA DO PLANSERV CUJO O NÚMERO FOI 6 E MUDANDO O STATUS DAS GUIAS PARA ( FT - EM FATURA)\n- NA ABA FATURAS FOI GERADO O  XML,NA GERAÇÃO DO XML PERCEBEU-SE DOIS ERROS QUE FORAM CONCERTADOS NO EXATO MOMENTO QUE FORAM O NÚMERO DA ANS DO PLANSERV E A VERSÃO DA GUIA TISS QUE O PLANSERV EXIGE QUE SEJA EXPORTADA..\n- AO FAZER EXPORTAÇÃO PELO MAIDA OBSERVOU VÁRIOS ERROS OPERACIONAIS DE PREENCHIMENTO DE GUIA,FICANDO ASSIM, A IMPOSSIBILIDADE DE CONCLUIR A EXPORTAÇÃO. CHEGAMOS AO CONCESSO QUE TODAS AS GUIAS QUE FORAM TRABALHADAS ATÉ ENTÃO FOSSEM POSTAS NA PENDÊNCIA DA RECEPÇÃO PARA SEREM CONCERTADAS E POSTERIORMENTE ENVIADAS NOVAMENTE, MADALENA FICOU DE CONDUZIR O PROCESSO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsse treinamento já tinha sido dado a Madalena presencialmente na semana do start.\nO intuito do treinamento de hoje foi fazer com quê a faturista Mari, mandasse uma fatura do Planserv pela primeira vez através do sistema klingo.\n- O treinamento foi iniciado com o protocolo de envio de guias no módulo da recepção, mostrando que todas as guias geradas ficam com Status Disponível e que ao enviar para o faturamento o Status dela muda pra protocoladas.\n- Módulo FATURAMENTO\n* VISÃO GERAL\n* GUIA\nNa aba guias mostrado como puxar o relatório com as guias que foram protocoladas, Mari pediu que tirasse um relatório com as seguintes informações:\nOperadora - PLANSERV\nDATA: 01/10/2026 ATÉ 19/10/2026\nCLASSIFICAÇÃO: CONSULTA\nSTATUS PROTOCOLADAS\n- Uma vez puxado o relatório foi mostrado que o próximo passo é dar como recebido todas as guias que estão protocoladas ,fazendo assim que todas as guias fiquem com Status: AF - : A FATURAR e as guias que estão com alguma coisa errada na pendência para recepção ficando com o Status PR - Pendente Recepção.\nRessaltado que existe dois tipo de pendência que é a pendencia da recepção que fica com status PR e a pendência do faturamento que fica com Status PE\n- Depois foi colocado todas as guias que estavam com Status de a Faturar em protocolo de fatura mudando assim os Status das Guias para PT - protocolo de fatura\n- Depois colocado todas as Guias que estavam em protocolo de Fatura em Fatura mudando assim o status das guias para FT - faturada\n- Criada uma Fatura do Planserv cujo o número é 6 e gerado o arquivo XML na aba de Faturas.\n- ao mandar o arquivo XML pelo maida percebeu-se dois erros de cadastro que foi concertado na hora que foi o número da ANS e a versão do Tiss que o planserv exige que seja enviado.\n-  Ao mandar o XML deu vários erros operacionais de preenchimento de guia, aonde chegou ao consenso que todas as guias que foram trabalhadas iriam ser colocada na pendência da recepção para serem concertadas e posteriormente serem enviadas novamente",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    }
+]
