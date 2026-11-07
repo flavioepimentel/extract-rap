@@ -1,0 +1,42 @@
+[
+    {
+        "id": 33666,
+        "visita": "Acompanhamento do Projeto",
+        "titulo": "ADI NASCIMENTO [Clínica] Implantação do Klingo",
+        "data": "2026-11-04",
+        "cliente": "Clínica Adi Nascimento",
+        "projeto": "ADI NASCIMENTO [Clínica] Implantação do Klingo",
+        "responsavel": "Cleber Oliveira",
+        "contato": "Anderson - Lucas",
+        "periodo_inicio": "06:35",
+        "periodo_fim": "21:06",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "Registro Cronológico:\n07:38 – 10:00: Deslocamento técnico para atendimento presencial na unidade de Amargosa.\n\n10:00 – 18:00: Início e condução das atividades técnicas presenciais, abertura/acompanhamento de chamados, alinhamento de relatórios e validação de fluxos com a equipe.\n\n📌 Atividades Executadas:\nGestão de Incidentes, Abertura de Chamados e Coleta de Evidências:\n\nLevantamento de inconsistências, testes de validação técnica e registro formal de chamados junto ao suporte/desenvolvimento:\n\nChamado #0000153: Correção de Bug – Inconsistência na atualização da data do atendimento.\n\nChamado #0000155: Ajuste nas Configurações dos Modelos de Prontuário – Módulo Consultório.\n\nChamado #0000156: Falha ao carregar campo de lateralidade (OD/OE) ao importar itens do histórico na receita (Status: Respondido pelo time de desenvolvimento, aguardando validação técnica interna).\n\nCall Center e Gestão de Captação (CRM):\n\nEstruturação e análise do relatório de acompanhamento de indicações preenchidas durante os atendimentos do Call Center.\n\nCriação, configuração e parametrização da Fila de Leads no sistema.\n\nHomologação e validação prática do fluxo operacional de captação e direcionamento de leads.\n\nApresentação técnica e treinamento demonstrativo para Anderson, orientando a rotina e a dinâmica de operação da fila de leads.\n\nAuditoria de Prescrições e Relatórios Clínicos (Glaucoma):\n\nExtração e estruturação de relatório analítico para Diogenis, consolidando o ambiente de receitas com o quantitativo exato de colírios receitados por período/paciente.\n\nReunião de alinhamento com a equipe para revisão de fluxos operacionais, com proposição de melhorias práticas no processo de prescrição médica e emissão de receitas.\n\n📌 Próximos Passos e Encaminhamentos:\nValidação técnica e homologação do chamado #0000156 (lateralidade OD/OE em receitas) em ambiente de teste/produção.\n\nAcompanhamento dos retornos técnicos dos chamados #0000153 e #0000155.\n\nMonitoramento da alimentação da fila de leads pela equipe do Call Center junto a Anderson.\n\nSuporte continuado a Diogenis na conferência dos quantitativos de colírios dispensados versus prescritos.",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    },
+    {
+        "id": 33668,
+        "visita": "Acompanhamento do Projeto",
+        "titulo": "ADI NASCIMENTO [Clínica] Implantação do Klingo",
+        "data": "2026-11-06",
+        "cliente": "Clínica Adi Nascimento",
+        "projeto": "ADI NASCIMENTO [Clínica] Implantação do Klingo",
+        "responsavel": "Cleber Oliveira",
+        "contato": "Anderson - Lucas",
+        "periodo_inicio": "08:11",
+        "periodo_fim": "00:00",
+        "categoria_rap": "Acompanhamento de projetos",
+        "tipo_rap": "Cliente",
+        "descricao": "Atividades Executadas:\nElaboração e Gravação de Vídeos Técnicos e Instrucionais:\n\nFluxo Glaucoma (Prescrição ➔ Solicitação de Colírio ➔ Atendimento da Solicitação):\n\nDemonstração prática da alteração operacional: transição do modelo antigo (solicitação por receita avulsa) para o módulo de Nova Prescrição, viabilizando a amarração direta com a linha de tratamento vinculada (ex.: Dorsal Binocular).\n\nDemonstração do disparo de solicitação via Mat/Med com indicação de centro de custo e estoque de armazenagem, integrando diretamente com a fila de suprimentos/farmácia para baixa assistencial.\n\nOrientação à equipe de dispensação sobre localização do paciente na fila, conferência dos itens prescritos, acionamento do comando \"Atender todos\", confirmação de entrega e baixa automática da fila.\n\nPagamento Pendente (Lançamento Parcial e Quitação):\n\nPasso a passo da parametrização e lançamento no caixa de valores parciais (ex.: entrada em dinheiro) e direcionamento do saldo restante para a forma Pagamento Pendente.\n\nDemonstração da tela de gestão e liquidação posterior: como localizar os débitos pendentes, selecionar o saldo devedor, registrar a forma de liquidação final (dinheiro/cartão), emitir recibo/nota e confirmar a baixa definitiva no painel da recepção.\n\nConverter Orçamento em Atendimento (Fluxo Direto):\n\nInstrução prática sobre montagem de orçamento particular (seleção de convênio, profissional e itens/consultas) e conversão imediata para a fila de atendimento da recepção, validando critérios de elegibilidade por idade (ex.: oftalmopediatria).\n\nOrçamento Salvo – Convertido em Atendimento (Fluxo com Retorno):\n\nDemonstração da rotina para salvar propostas de pacientes que necessitam de prazo para confirmação, localização na base via menu \"Buscar Orçamento\", seleção dos itens aprovados e conversão programada para a recepção.\n\nParametrizações Financeiras e Regras de Caixa:\n\nConfiguração e ativação das regras sistêmicas para a rotina de Pagamento Pendente.\n\nParametrização da forma de recebimento específica para assegurar a conciliação entre o adiantamento e a liquidação posterior sem gerar furos de caixa.\n\nAuditoria de Dados e Relatórios Operacionais:\n\nExtração e estruturação do relatório de pacientes faltosos para suporte ao plano de ação de busca ativa e redução do absenteísmo.\n\nEstruturação e conferência do relatório analítico de cirurgias por paciente, consolidando o volume e histórico cirúrgico individualizado da unidade.\n\nLogística:\n\nDeslocamento técnico presencial à unidade e retorno para Feira de Santana.\n\n📌 Próximos Passos:\nAcompanhamento assistido da equipe na aplicação dos novos fluxos de prescrição de colírios e atendimento na farmácia.\n\nValidação prática com os caixas sobre a utilização da rotina de pagamento pendente.\n\nMonitoramento dos indicadores de faltas junto à gestão da unidade.",
+        "pendencias": null,
+        "proximos_passos": null,
+        "outras_infos": null,
+        "conquistas": null,
+        "noticias": null
+    }
+]
